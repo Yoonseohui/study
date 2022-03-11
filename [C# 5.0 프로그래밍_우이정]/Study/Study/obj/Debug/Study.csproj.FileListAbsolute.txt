@@ -1,0 +1,7 @@
+C:\study\[C# 5.0 프로그래밍_우이정]\Study\Study\bin\Debug\Study.exe.config
+C:\study\[C# 5.0 프로그래밍_우이정]\Study\Study\bin\Debug\Study.exe
+C:\study\[C# 5.0 프로그래밍_우이정]\Study\Study\bin\Debug\Study.pdb
+C:\study\[C# 5.0 프로그래밍_우이정]\Study\Study\obj\Debug\Study.csprojAssemblyReference.cache
+C:\study\[C# 5.0 프로그래밍_우이정]\Study\Study\obj\Debug\Study.csproj.CoreCompileInputs.cache
+C:\study\[C# 5.0 프로그래밍_우이정]\Study\Study\obj\Debug\Study.exe
+C:\study\[C# 5.0 프로그래밍_우이정]\Study\Study\obj\Debug\Study.pdb
