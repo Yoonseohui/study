@@ -5,12 +5,17 @@ double c = a * b;
 char d = "abc";	// 문자열이 할당됨
 string e = '한';	// ' ' 가 쓰임
 
-2. 값 형식, 참조 형식
+2, 3. 
 <값 형식>
 - 입력한 데이터가 스택에 저장됨
 - 얕은 복사
 - 메소드 실행이 끝나면 데이터가 사라짐
-
+- 값 형식 -> 참조형식 = Boxing
+- ex) bool, char, byte, decimal, couble, enum, float, int long, short, sbyte, struct, uint, ulong, ushort
 
 <참조 형식>
--깊은 복사
+- 데이터의 위치 주소를 참조하며 힙 메모리에 저장됨
+- 깊은 복사
+- Garbage collection 에 의해 정리됨
+- 참조 형식 -> 값 형식 = Un-Boxing
+- ex) class, interface, delegate, object, string
