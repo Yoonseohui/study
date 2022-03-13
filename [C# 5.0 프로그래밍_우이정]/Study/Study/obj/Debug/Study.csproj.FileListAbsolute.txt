@@ -5,3 +5,11 @@ C:\study\[C# 5.0 프로그래밍_우이정]\Study\Study\obj\Debug\Study.csprojAs
 C:\study\[C# 5.0 프로그래밍_우이정]\Study\Study\obj\Debug\Study.csproj.CoreCompileInputs.cache
 C:\study\[C# 5.0 프로그래밍_우이정]\Study\Study\obj\Debug\Study.exe
 C:\study\[C# 5.0 프로그래밍_우이정]\Study\Study\obj\Debug\Study.pdb
+D:\study\[C# 5.0 프로그래밍_우이정]\Study\Study\obj\Debug\Study.csproj.AssemblyReference.cache
+D:\study\[C# 5.0 프로그래밍_우이정]\Study\Study\obj\Debug\Study.csproj.SuggestedBindingRedirects.cache
+D:\study\[C# 5.0 프로그래밍_우이정]\Study\Study\obj\Debug\Study.csproj.CoreCompileInputs.cache
+D:\study\[C# 5.0 프로그래밍_우이정]\Study\Study\obj\Debug\Study.exe
+D:\study\[C# 5.0 프로그래밍_우이정]\Study\Study\obj\Debug\Study.pdb
+D:\study\[C# 5.0 프로그래밍_우이정]\Study\Study\bin\Debug\Study.exe.config
+D:\study\[C# 5.0 프로그래밍_우이정]\Study\Study\bin\Debug\Study.exe
+D:\study\[C# 5.0 프로그래밍_우이정]\Study\Study\bin\Debug\Study.pdb

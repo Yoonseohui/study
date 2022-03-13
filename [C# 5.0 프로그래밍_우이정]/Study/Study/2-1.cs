@@ -1,6 +1,5 @@
 using System;
 
-/*
 public class Program
 {
 	public static void Main()
@@ -9,4 +8,3 @@ public class Program
 		Console.WriteLine("반갑습니다!");
 	}
 }
-*/

@@ -8,10 +8,11 @@
     <OutputType>Exe</OutputType>
     <RootNamespace>Study</RootNamespace>
     <AssemblyName>Study</AssemblyName>
-    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -43,10 +44,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="2-1.cs" />
-    <Compile Include="3-4.cs" />
-    <Compile Include="Main.function.cs" />
-    <Compile Include="Main.cs" />
+    <None Include="2-1.cs" />
+    <None Include="3-4.cs" />
+    <None Include="4.cs" />
+    <None Include="5.cs" />
+    <None Include="6-1.cs" />
+    <None Include="6-2.cs" />
+    <Compile Include="6-3.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

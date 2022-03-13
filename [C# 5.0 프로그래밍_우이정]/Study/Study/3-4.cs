@@ -1,4 +1,3 @@
-/*
 using System;
 
 namespace RectArea
@@ -17,4 +16,3 @@ namespace RectArea
 		}
 	}
 }
-*/
