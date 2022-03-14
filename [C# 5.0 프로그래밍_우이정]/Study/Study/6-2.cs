@@ -23,5 +23,23 @@ namespace Study
         {
             mean = (a + b + c + d + e) / 5;
         }
+
+        // Yoon's code
+        //public static void Main(string[] args)
+        //{
+        //    double mean = 0;
+
+        //    mean = Mean(1, 2, 3, 4, 5, mean);
+
+        //    Console.WriteLine("평균 : {0}", mean);
+        //}
+
+        //public static double Mean(
+        //    double a, double b, double c,
+        //    double d, double e, double mean)
+        //{
+        //    double result = (a + b + c + d + e) / 5;
+        //    return result;
+        //}
     }
 }
