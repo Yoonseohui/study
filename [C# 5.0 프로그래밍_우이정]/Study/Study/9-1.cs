@@ -8,10 +8,11 @@ namespace Study
 {
     class NameCard
     {
-        private int age;
-        private string name;
+        private int _age;
+        private string _name;
 
         // GetAge(), SetAge(), GetName(), SetName() 메소드를 프로퍼티로 변경
+        /*
         public int GetAge()
         { return age; }
 
@@ -23,6 +24,19 @@ namespace Study
 
         public void SetName(string value)
         { name = value; }
+        */
+
+        // 프로퍼티 추가
+        public int Age
+        {
+            get => _age;
+            set => _age = value;
+        }
+        public string Name
+        {
+            get => _name;
+            set => _name = value;
+        }
     }
     class Class9_1
     {
@@ -30,11 +44,16 @@ namespace Study
         {
             NameCard MyCard = new NameCard();
 
-            MyCard.SetAge(24);
-            MyCard.SetName("상현");
+            //MyCard.SetAge(24);
+            //MyCard.SetName("상현");
 
-            Console.WriteLine("나이 : {0}", MyCard.GetAge());
-            Console.WriteLine("이름 : {0}", MyCard.GetName());
+            // 프로퍼티 set
+            MyCard.Age = 24;
+            MyCard.Name = "상현";
+
+            // 프로퍼티 get
+            Console.WriteLine("나이 : {0}", MyCard.Age);
+            Console.WriteLine("이름 : {0}", MyCard.Name);
         }
     }
 }

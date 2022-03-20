@@ -49,11 +49,11 @@
     <None Include="4.cs" />
     <None Include="5.cs" />
     <None Include="6-1.cs" />
-    <Compile Include="6-2.cs" />
+    <None Include="6-2.cs" />
     <None Include="6-3.cs" />
-    <Compile Include="7.cs" />
-    <Compile Include="8.cs" />
-    <Compile Include="9-1.cs" />
+    <None Include="7.cs" />
+    <None Include="8.cs" />
+    <None Include="9-1.cs" />
     <Compile Include="9-2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
