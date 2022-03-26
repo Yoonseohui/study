@@ -54,7 +54,11 @@
     <None Include="7.cs" />
     <None Include="8.cs" />
     <None Include="9-1.cs" />
-    <Compile Include="9-2.cs" />
+    <None Include="9-2.cs" />
+    <None Include="10-1,2,3,4.cs" />
+    <None Include="10-5.cs" />
+    <None Include="11.cs" />
+    <Compile Include="12.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
