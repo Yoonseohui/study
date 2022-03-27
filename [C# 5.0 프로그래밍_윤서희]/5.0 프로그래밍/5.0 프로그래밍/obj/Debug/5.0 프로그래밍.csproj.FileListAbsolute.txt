@@ -1,0 +1,7 @@
+C:\Users\yoons\source\repos\5.0 프로그래밍\5.0 프로그래밍\obj\Debug\5.0 프로그래밍.csprojAssemblyReference.cache
+C:\Users\yoons\source\repos\5.0 프로그래밍\5.0 프로그래밍\obj\Debug\5.0 프로그래밍.csproj.CoreCompileInputs.cache
+C:\Users\yoons\source\repos\5.0 프로그래밍\5.0 프로그래밍\bin\Debug\5.0 프로그래밍.exe.config
+C:\Users\yoons\source\repos\5.0 프로그래밍\5.0 프로그래밍\bin\Debug\5.0 프로그래밍.exe
+C:\Users\yoons\source\repos\5.0 프로그래밍\5.0 프로그래밍\bin\Debug\5.0 프로그래밍.pdb
+C:\Users\yoons\source\repos\5.0 프로그래밍\5.0 프로그래밍\obj\Debug\5.0 프로그래밍.exe
+C:\Users\yoons\source\repos\5.0 프로그래밍\5.0 프로그래밍\obj\Debug\5.0 프로그래밍.pdb
